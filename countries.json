@@ -117,12 +117,12 @@
     {
         code: 'BJ',
         name: 'Benin',
-        nat: 'Beninese, Beninois'
+        nat: 'Beninois'
     },
     {
         code: 'BM',
         name: 'Bermuda',
-        nat: 'Bermudian, Bermudan'
+        nat: 'Bermudian'
     },
     {
         code: 'BT',
