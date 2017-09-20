@@ -136,7 +136,7 @@
     },
     {
         code: 'BQ',
-        name: 'Bonaire, Sint Eustatius and Saba',
+        name: 'Bonaire',
         nat: 'Bonaire'
     },
     {
@@ -247,7 +247,7 @@
     {
         code: 'KM',
         name: 'Comoros',
-        nat: 'Comoran, Comorian'
+        nat: 'Comorian'
     },
     {
         code: 'CG',
@@ -271,7 +271,7 @@
     },
     {
         code: 'CI',
-        name: 'Côte d'Ivoire',
+        name: 'Côte d\'Ivoire',
         nat: 'Ivorienne'
     },
     {
@@ -338,7 +338,7 @@
     {
         code: 'GQ',
         name: 'Equatorial Guinea',
-        nat: 'Equatorial Guinean, Equatoguinean'
+        nat: 'Equatorial Guinean'
     },
     {
         code: 'ER',
@@ -367,7 +367,6 @@
     },
     {
         code: 'FJ',
-        'alpha_3_code': 'FJI',
         name: 'Fiji',
         nat: 'Fijian'
     },
@@ -449,7 +448,7 @@
     {
         code: 'GU',
         name: 'Guam',
-        nat: 'Guamanian, Guambat'
+        nat: 'Guamanian'
     },
     {
         code: 'GT',
@@ -499,12 +498,12 @@
     {
         code: 'HK',
         name: 'Hong Kong',
-        nat: 'Hong Kong, Hong Kongese'
+        nat: 'Hong Kongese'
     },
     {
         code: 'HU',
         name: 'Hungary',
-        nat: 'Hungarian, Magyar'
+        nat: 'Hungarian'
     },
     {
         code: 'IS',
@@ -524,7 +523,7 @@
     {
         code: 'IR',
         name: 'Iran',
-        nat: 'Iranian, Persian'
+        nat: 'Iranian'
     },
     {
         code: 'IQ',
@@ -574,7 +573,7 @@
     {
         code: 'KZ',
         name: 'Kazakhstan',
-        nat: 'Kazakhstani, Kazakh'
+        nat: 'Kazakh'
     },
     {
         code: 'KE',
@@ -613,7 +612,6 @@
     },
     {
         code: 'LV',
-        'alpha_3_code': 'LVA',
         name: 'Latvia',
         nat: 'Latvian'
     },
@@ -678,9 +676,7 @@
         nat: 'Malaysian'
     },
     {
-        'num_code': '462',
         code: 'MV',
-        'alpha_3_code': 'MDV',
         name: 'Maldives',
         nat: 'Maldivian'
     },
@@ -877,7 +873,7 @@
     {
         code: 'PH',
         name: 'Philippines',
-        nat: 'Philippine, Filipino'
+        nat: 'Philippine'
     },
     {
         code: 'PN',
@@ -1027,7 +1023,7 @@
     {
         code: 'SO',
         name: 'Somalia',
-        nat: 'Somali, Somalian'
+        nat: 'Somalian'
     },
     {
         code: 'ZA',
@@ -1101,7 +1097,7 @@
     },
     {
         code: 'TZ',
-        name: 'Tanzania, United Republic of',
+        name: 'Tanzania',
         nat: 'Tanzanian'
     },
     {
@@ -1203,7 +1199,7 @@
     {
         code: 'VU',
         name: 'Vanuatu',
-        nat: 'Ni-Vanuatu, Vanuatuan'
+        nat: 'Vanuatuan'
     },
     {
         code: 'VE',
@@ -1233,7 +1229,7 @@
     {
         code: 'EH',
         name: 'Western Sahara',
-        nat: 'Sahrawi, Sahrawian, Sahraouian'
+        nat: 'Sahrawi'
     },
     {
         code: 'YE',
